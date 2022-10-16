@@ -46,16 +46,16 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 global.owner = ['94782787563']
 global.ownertag = '94782787563' //ur tag number
 global.botnumber = '94782787563' //Add your Bot Number For Log
-global.botname = 'pandatexttool' //ur bot name
+global.botname = 'darkpanda' //ur bot name
 global.ig = "" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtube.com/shorts/QGrdrIgsrEs?feature=share" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://https://youtube.com/shorts/QGrdrIgsrEs?feature=share'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "pandatexttool Bot" //ur sticker watermark packname
-global.author = "pandatexttool" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.packname = "darkpanda Bot" //ur sticker watermark packname
+global.author = "darkpanda" //ur sticker watermark author
+global.footer = "® darkpanda ᴇᴅɪᴛɪᴏɴ"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
